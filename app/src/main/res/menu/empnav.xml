@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/emphome"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/empdata"
+        android:icon="@drawable/a"
+        android:title="Data" />
+    <item
+        android:id="@+id/emprofile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile" />
+</menu>

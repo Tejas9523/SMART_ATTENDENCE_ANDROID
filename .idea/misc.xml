@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/drawable/navbar.xml" value="0.209" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/drawable/round1.xml" value="0.1555" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/drawable/round2.xml" value="0.1555" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/drawable/round_button.xml" value="0.136" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/drawable/rounded_rectangle.xml" value="0.136" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/activity_cam.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/activity_company_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/activity_company_login.xml" value="0.25" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/activity_employee_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/activity_employee_login.xml" value="0.33" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/activity_employee_register.xml" value="0.18" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/activity_main.xml" value="0.16883116883116883" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/activity_register_company.xml" value="0.33" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/fragment_comdata.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/fragment_comhome.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/fragment_comprofile.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/fragment_empdata.xml" value="0.1875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/fragment_emphome.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/fragment_empprofile.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/layout/round_button.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/menu/comnav.xml" value="0.1" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/menu/company_menu.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/SmartAttendence/app/src/main/res/menu/empnav.xml" value="0.2015625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
